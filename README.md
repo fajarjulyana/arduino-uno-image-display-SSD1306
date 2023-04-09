@@ -1,4 +1,9 @@
 # arduino-uno-image-display-SSD1306
+1. Make New Image 128x64 
+2. Convert image to cpp array
+<br> https://github.com/javl/image2cpp.git
+<br> goto page http://javl.github.io/image2cpp/
+
 ## Preparation
 
 1. Arduino Uno r3
